@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692220435 source:d:\codeblocks\searchengine\main.cpp
+	<iostream>
+	<unordered_map>
+	<algorithm>
+	<cctype>
+
